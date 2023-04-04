@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    width:100%;
+    font-family:'Courier New', Courier, monospace;
+    background:#e1c9f8;
+    color:black;
+}
+
+
+ h1{
+    text-align:center;
+    margin-top:10px;
+    color:#072448;
+    
+}
+
+.content p{
+    font-weight:600;
+    padding-top:2rem;
+    /*margin-left:25px;
+    margin-right:25px;*/
+    margin:0 .5rem;
+    line-height:1.2rem;
+    padding-bottom:10px;
+    opacity:.8;
+}
+.content ul{
+    font-weight:600;
+    margin:0 2rem;
+    /*margin:0 30px;*/
+}
+.content ul li{
+    gap:2rem;
+    opacity:.8;
+}
+
+   
+
